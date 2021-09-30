@@ -17,11 +17,10 @@
 
 #navbar2 {
     position: fixed;
-    top: 0;
+    top: 52px;
     left: 0;
-    width: 100%;
     background-color: #333;
-    width: 10%
+    width: 130px;
 }
 
 #navbar2 a {
@@ -35,6 +34,6 @@
 
 body {
     position: absolute;
-    top: 10%;
-    left: 25%;
+    top: 70px;
+    left: 150px;
 }
